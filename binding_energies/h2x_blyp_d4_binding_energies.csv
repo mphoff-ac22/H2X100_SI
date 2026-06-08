@@ -1,0 +1,101 @@
+Isomer,De
+(H2S)2 t-1H,-1.890
+(H2S)2 t-1C,-1.576
+(H2S)2 c-1H,-1.822
+(H2S)3 R-3H (ttc),-6.142
+(H2S)3 R-3H (ccc),-6.041
+"(H2S)3 O-1H1C (ta, ta)",-3.468
+"(H2S)3 O-2C (td, td)",-3.074
+"(H2S)3 O-2H (ta, ta)",-3.532
+"(H2S)3 O-2H (ta, ca)",-3.467
+(H2S)4 P-6H,-9.968
+(H2S)4 P-5H1C,-9.852
+(H2S)4 P-3H3C,-9.396
+(H2S)4 B-4H2C,-9.762
+(H2S)4 F-5H (I),-9.329
+(H2S)4 P-4H2C,-9.250
+(H2S)4 P-5H,-9.535
+(H2S)4 F-5H (II),-9.306
+(H2S)4 F-5H (III),-9.295
+(H2S)4 R-4H (tttt),-9.506
+(H2S)4 R-4H (tctc),-9.443
+(H2S)4 F-5H (IV),-8.771
+(H2S)4 F-2H3C,-7.727
+(H2Se)2 t-1C,-1.700
+"(H2Se)2 2C (da, da)",-1.639
+(H2Se)2 t-1H,-1.796
+(H2Se)2 c-1H,-1.793
+(H2Se)3 R-3H (ttc),-5.929
+(H2Se)3 R-3H (ccc),-5.927
+(H2Se)3 R-2H1C (ctt),-5.518
+(H2Se)3 R-2H1C (tct),-5.510
+(H2Se)3 R-2H1C (ttc),-5.469
+(H2Se)3 R-2H1C (ccc),-5.446
+(H2Se)3 R-1H2C (ctt),-5.209
+(H2Se)3 R-1H2C (tct),-5.124
+(H2Se)3 R-1H2C (ttc),-5.189
+(H2Se)3 R-1H2C (ccc),-5.123
+(H2Se)3 R-3C (ttc),-4.940
+(H2Se)3 R-3C (ccc),-4.929
+"(H2Se)3 O-2C (ta, ta)",-3.688
+"(H2Se)3 O-2C (td, td)",-3.302
+"(H2Se)3 O-1H1C (ta, ta)",-3.456
+"(H2Se)3 O-2H (ta, ta)",-3.419
+"(H2Se)3 O-2C (ta, ca)",-3.406
+(H2Se)4 B-4H2C,-10.113
+(H2Se)4 B-2H3C (I),-9.214
+(H2Se)4 B-1H4C,-8.897
+(H2Se)4 B-4H1C,-9.748
+(H2Se)4 B-3H2C,-9.047
+(H2Se)4 B-4C,-8.316
+(H2Se)4 B-2H3C (II),-8.506
+(H2Se)4 P-2H4C,-9.254
+(H2Se)4 P-5H1C (I),-10.010
+(H2Se)4 P-6H,-9.878
+(H2Se)4 P-5H1C (II),-9.798
+(H2Se)4 P-4H2C,-9.712
+(H2Se)4 F-2H3C (I),-8.316
+(H2Se)4 F-2H3C (II),-8.324
+(H2Se)4 F-4H1C,-8.776
+(H2Se)4 R-4H,-8.937
+(H2Se)4 R-4C,-7.400
+(H2Te)2 t-1C,-2.519
+(H2Te)2 c-1C,-2.522
+"(H2Te)2 2C (da, da)",-2.430
+(H2Te)2 vdW,-1.324
+(H2Te)2 t-1H,-1.532
+(H2Te)3 R-3H (ttc),-5.143
+(H2Te)3 R-3H (ccc),-5.233
+(H2Te)3 R-2H1C (ctt),-6.013
+(H2Te)3 R-2H1C (tct),-6.001
+(H2Te)3 R-2H1C (ttc),-5.962
+(H2Te)3 R-2H1C (ccc),-6.016
+(H2Te)3 R-1H2C (ctt),-6.910
+(H2Te)3 R-1H2C (tct),-6.847
+(H2Te)3 R-1H2C (ttc),-6.910
+(H2Te)3 R-1H2C (ccc),-6.821
+(H2Te)3 R-3C (ttc),-7.874
+(H2Te)3 R-3C (ccc),-7.801
+"(H2Te)3 O-2C (ta, ta)",-4.971
+"(H2Te)3 O-2C (ta, ca)",-4.959
+"(H2Te)3 O-2C (ta, ca)",-4.964
+"(H2Te)3 O-2C (td, td)",-4.976
+"(H2Te)3 O-2C (td, cd)",-4.963
+"(H2Te)3 O-2C (td, cd)",-4.935
+(H2Te)4 B-1H4C (I),-13.134
+(H2Te)4 B-4C (I),-13.001
+(H2Te)4 B-4C (II),-12.980
+(H2Te)4 B-1H4C (II),-12.364
+(H2Te)4 B-1H4C (III),-12.355
+(H2Te)4 B-2H3C (I),-12.180
+(H2Te)4 B-1H3C (I),-12.087
+(H2Te)4 B-1H3C (II),-11.968
+(H2Te)4 B-2H3C (II),-11.439
+(H2Te)4 B-2H2C (I),-12.471
+(H2Te)4 B_2H2C (II),-11.164
+(H2Te)4 B-4H2C,-11.146
+(H2Te)4 B-4H1C,-9.899
+(H2Te)4 P-2H4C,-12.409
+(H2Te)4 P-3H3C,-11.743
+(H2Te)4 R-4C,-12.110
+(H2Te)4 F-2H3C,-10.820
